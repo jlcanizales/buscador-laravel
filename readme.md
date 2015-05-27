@@ -1,5 +1,5 @@
 ## Site Tested
-Tested on [Duis website](http://duis.co)
+Tested on [Duis website](http://duis.co) by [Author website](http://jlcanizales.com)
 
 ## Laravel PHP Framework
 
